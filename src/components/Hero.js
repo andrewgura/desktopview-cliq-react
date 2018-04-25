@@ -12,7 +12,7 @@ class Hero extends React.Component {
       height: '100vh'
     },
     highlight = {
-      backgroundColor: '#cccccc52',
+      backgroundColor: 'rgba(204, 204, 204, 0.32)',
       paddingRight: "10px",
       paddingLeft: "10px",
       textTransform: "uppercase",
