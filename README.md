@@ -2,9 +2,17 @@ This project was bootstrapped with create-react-app
 
 ## Frameworks/Libraries Used
 React
+
 glamor
+
 react-bootstrap
+
 react-flexbox-grid
+
+font awesome(icons)
+
+
+Google fonts - [Crimson Text](https://fonts.google.com/specimen/Crimson+Text)
 
 
 ## Requirements and understanding
